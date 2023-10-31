@@ -1,14 +1,15 @@
-Individual Submitter:
-Name: Sabiha Alam Chowdhury
-ID: 20301192
+## Individual Submitter:
+- **Name:** Sabiha Alam Chowdhury
+- **ID:** 20301268
 
-Title of paper:
-Face Recognition Machine Vision System Using Eigenfaces
+### Title of paper:
+Development of a Genetic Algorithm Based Geodesic Active Contour Method for Image Segmentation
 
-Main paper link:
-https://arxiv.org/pdf/1705.02782v1.pdf
+### Main paper link:
+[Click me](https://arxiv.org/pdf/1705.02782v1.pdf)
 
-Slide link:
+### Slide link:
+[Click me](#)
 
-
-YouTube video:
+### YouTube video:
+[Click me](#)
