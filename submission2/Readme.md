@@ -13,4 +13,4 @@ Towards Building an Intelligent Anti-Malware System: A Deep Learning Approach us
 [Click me](https://www.canva.com/design/DAF18LQeaWM/syJFgmptbTC1Hqrp9Dy96w/view?utm_content=DAF18LQeaWM&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ### YouTube video:
-[Click me]()
+[Click me](https://www.youtube.com/watch?v=NBiUwxnC4EI&list=PLnhKAnywJy3P2IzMBawsA54n9chXm3wF3&index=2)
