@@ -7,7 +7,7 @@ Towards Building an Intelligent Anti-Malware System: A Deep Learning Approach us
 
 
 ### Main paper link:
-[Click me]("https://paperswithcode.com/paper/towards-building-an-intelligent-anti-malware")
+[Click me](https://paperswithcode.com/paper/towards-building-an-intelligent-anti-malware)
 
 ### Slide link:
 [Click me]()
